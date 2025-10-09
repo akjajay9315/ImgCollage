@@ -7,15 +7,15 @@
 .container {
     position: relative;
     min-height: 100vh;
-    background: #ddd;
+    background: black;
 }
 
 .container h1 {
     font-size: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     padding: 15px;
-    color: #333;
+    color: #00ffff;
     text-align: center;
     text-transform: capitalize;
 }
